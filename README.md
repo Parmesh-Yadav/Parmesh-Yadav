@@ -1,43 +1,58 @@
-<h2 align="center">Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2 align="center">Hi there, fellow &#60;coders/&#62! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h1 align="center">I'm Parmesh Yadav</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Lifelong Learner</h3>
 
-<h2 align="center">I'm Parmesh Yadav </h2>
-<h3 align="center">Connect With Me !!! </h3> 
 <p align="center">
-<!--   <a href="https://github.com/yellowberard" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a> -->
-  <!-- <a href="https://www.linkedin.com/in/mayank-goel-55a299200/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> -->
-  <!-- <a href="https://twitter.com/mayank_235" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a> -->
   <a href="mailto:parmesh20319@iiitd.ac.in">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p> 
-
-
-
-- 🔭 I’m currently working on Full stack Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about Anything that exites me
-- 📫 How to reach me: parmesh20319@iiitd.ac.in
-
-<strong>Languages and Tools used: </strong>
-
-<code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
-<!-- <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code> -->
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Parmesh-Yadav"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Parmesh-Yadav"/> <br> <br> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parmesh-Yadav&theme=dracula" /> <br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmesh-Yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+  <a href="https://linkedin.com/in/parmesh-yadav" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
+
+---
+
+### 🚀 About Me
+- 🔭 **Full-Stack Software Developer** at **HCL Software**.  
+- 🌱 Constantly improving at **Data Structures and Algorithms**.  
+- 🤖 Passionate about **AI, LLMs (Large Language Models)**, and exploring their applications.  
+- 🛠️ Currently tinkering with **Next.js** and building exciting web projects.  
+- 💬 Ask me about anything that excites you (or me)!  
+- 📫 How to reach me: [parmesh20319@iiitd.ac.in](mailto:parmesh20319@iiitd.ac.in).  
+
+---
+
+### ⚙️ Technologies & Tools
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+### 🌟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmesh-Yadav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmesh-Yadav&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmesh-Yadav&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parmesh-Yadav&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+### 💡 Fun Fact
+I firmly believe that **coding** is as much about *solving problems* as it is about *continuous learning*. When I’m not coding, I’m probably reading about the latest advancements in **AI** or tweaking my next web project!
+
+---
 
 ![Visitor Count](https://profile-counter.glitch.me/Parmesh-Yadav/count.svg)
 
-<strong>Show some :heart: by looking at my some repositories</strong>
+#### Show some ❤️ by starring my repositories or reaching out!
