@@ -1,66 +1,60 @@
-# Parmesh Yadav
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E88F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-parmesh20319@iiitd.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parmesh20319@iiitd.ac.in)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parmesh_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmesh-yadav-29542b22b/)
-  [![GitHub](https://img.shields.io/github/followers/Parmesh-Yadav?label=follow&style=social)](https://github.com/Parmesh-Yadav)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Software+Developer+2+%40+HCL;Building+AI+SaaS+Products;Full-Stack+Engineer;Next.js+%2B+Cloud+Native" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer** at **HCL Software** with a passion for building innovative web applications and exploring AI technologies.
-
-```javascript
-const parmesh = {
-  currentRole: "Software Developer @ HCL Software",
-  technologies: {
-    frontend: ["JavaScript", "TypeScript", "React", "Next.js"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    languages: ["C++", "Python", "JavaScript"],
-  },
-  currentFocus: "Data Structures & Algorithms",
-  interests: ["AI", "LLMs", "Web Development"]
-};
-```
-
-## 🛠️ Tech Stack
-
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-  
+  <h3>
+    Building scalable systems & aesthetic UIs.
+  </h3>
+  <p>
+    I engineer full-stack solutions with <b>Next.js, TypeScript, and Docker</b>.<br> 
+    Passionate about distributed systems, performance optimization, and AI integration.
+  </p>
 </div>
 
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmesh-Yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmesh-Yadav&theme=tokyonight&hide_border=true" height="170px"/>
+  <a href="mailto:parmesh.bk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parmesh-yadav-29542b22b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
-## 🌱 Current Projects
+<br/>
 
-- 🔭 Building responsive web applications with **Next.js**
-- 🤖 Experimenting with **LLMs** and their applications
-- 📚 Deepening my knowledge of **Data Structures & Algorithms**
+## ⚡ The Arsenal
 
-## 💬 Let's Connect
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, projects, or just say hi!
+<br/>
+
+## 🚀 Key Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Nodebase** | **AI Automation SaaS.** Visual workflow builder (n8n clone) with drag-and-drop logic. | `Next.js` `React Flow` `Inngest` |
+| **PingPanda** | **Event Monitoring SaaS.** Real-time alerting system via Discord webhooks. | `Postgres` `Discord API` `Stripe` |
+| **Deshneeti** | **Multilingual News Platform.** High-performance news aggregator with edge caching. | `Supabase` `Next.js i18n` |
+
+<br/>
+
+## 📊 Activity
 
 <div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Parmesh-Yadav&color=brightgreen&style=flat-square)
-  
-  <i>Happy coding!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmesh-Yadav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmesh-Yadav&theme=radical&hide_border=true&background=0d1117" height="160px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parmesh-Yadav&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
