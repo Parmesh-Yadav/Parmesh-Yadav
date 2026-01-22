@@ -1,14 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Software+Developer+2+%40+HCL;Building+AI+SaaS+Products;Full-Stack+Engineer;Next.js+%2B+Cloud+Native" alt="Typing SVG" />
-</div>
+<!-- =======================
+        HERO
+======================== -->
 
 <div align="center">
-  <h3>
-    Building scalable systems & aesthetic UIs.
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=520&lines=Software+Developer+2+%40+HCL;Full-Stack+Engineer;Building+Production-Grade+Systems;AI+%26+Cloud+Native" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Engineer focused on scalable backend systems, clean UI, and real-world impact.</h3>
   <p>
-    I engineer full-stack solutions with <b>Next.js, TypeScript, and Docker</b>.<br> 
-    Passionate about distributed systems, performance optimization, and AI integration.
+    Software Developer 2 at <b>HCL Software</b> with experience shipping production features.<br/>
+    Strong in <b>Next.js, TypeScript, Node.js, cloud infrastructure</b>, and AI-powered systems.
   </p>
 </div>
 
@@ -16,45 +20,97 @@
 
 <div align="center">
   <a href="mailto:parmesh.bk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/parmesh-yadav-29542b22b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-## ⚡ The Arsenal
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2&section=header" width="60%" />
+</div>
 
-| **Domain** | **Technologies** |
+<!-- =======================
+        SNAPSHOT
+======================== -->
+
+## 🎯 Professional Snapshot
+
+- 🧩 Software Developer 2 at **HCL Software**, contributing to production codebases  
+- 🛠 Built and shipped **full-stack features** used in real environments  
+- ⚡ Strong focus on **performance, maintainability, and scalability**  
+- 🤖 Hands-on with **LLM integrations, RAG pipelines, and AI workflows**  
+- ☁️ Comfortable across **frontend, backend, and cloud infrastructure**
+
+<!-- =======================
+        WHAT I BUILD
+======================== -->
+
+## 🏗️ What I Build
+
+- **Scalable backend services** with Node.js & PostgreSQL  
+- **Production-ready Next.js applications** (App Router, SSR, performance tuning)  
+- **Cloud-native deployments** using Docker, AWS & Kubernetes  
+- **AI-powered SaaS platforms** integrating OpenAI / Gemini APIs  
+- **Developer tools** focused on usability and long-term maintainability
+
+<!-- =======================
+        TECH STACK
+======================== -->
+
+## ⚙️ Tech Stack
+
+| Area | Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, PostgreSQL, Supabase, Prisma |
+| **DevOps / Cloud** | Docker, Kubernetes, AWS |
+| **AI / LLM** | OpenAI, Gemini, LangChain |
+| **Engineering** | REST APIs, System Design, Performance Optimization |
 
-<br/>
+<!-- =======================
+        ENGINEERING VALUES
+======================== -->
 
-## 🚀 Key Projects
+## 🧠 Engineering Values
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Nodebase** | **AI Automation SaaS.** Visual workflow builder (n8n clone) with drag-and-drop logic. | `Next.js` `React Flow` `Inngest` |
-| **PingPanda** | **Event Monitoring SaaS.** Real-time alerting system via Discord webhooks. | `Postgres` `Discord API` `Stripe` |
-| **Deshneeti** | **Multilingual News Platform.** High-performance news aggregator with edge caching. | `Supabase` `Next.js i18n` |
+- Write code that other engineers enjoy maintaining  
+- Optimize for **clarity first**, performance second, scale third  
+- Prefer **boring, proven tech** unless complexity is justified  
+- Measure impact using **real user and system metrics**
 
-<br/>
+<!-- =======================
+        GITHUB SIGNAL
+======================== -->
 
-## 📊 Activity
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parmesh-Yadav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmesh-Yadav&theme=radical&hide_border=true&background=0d1117" height="160px"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parmesh-Yadav&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Parmesh-Yadav&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
+</div>
+
+<!-- =======================
+        CTA
+======================== -->
+
+---
+
+<div align="center">
+
+### 🤝 Open to Opportunities
+
+Interested in roles involving **backend systems, full-stack development, or AI-enabled products**.  
+Open to discussions around impactful engineering work and strong technical teams.
+
+📫 **Reach me at**: `parmesh.bk@gmail.com`
+
 </div>
